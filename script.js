@@ -1,7 +1,7 @@
 // images being used, first array is right facing open mouth and closed mouth, second array is left facing open mouth and closed mouth
 const pacmanArray = [
-	["images/PacMan1.png", "images/PacMan2.png"],
-	["images/PacMan3.png", "images/Pacman4.png"],
+	["/PacMan1.png", "/PacMan2.png"],
+	["/PacMan3.png", "/Pacman4.png"],
 ];
 
 // position starting point
